@@ -1,2 +1,2 @@
-# hacktine
-made gcek hacktine
+# hackantine
+made for gcek hackantine
